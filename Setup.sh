@@ -1,4 +1,5 @@
 cd
+apt install nano
 cd ThsSmpServer
 mkdir MinecraftServer
 cd MinecraftServer
