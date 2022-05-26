@@ -1,9 +1,6 @@
 cd
 apt install nano
-apt install default-jdk
-apt install default-jre
-apt install openjdk-11-jdk
-apt install openjdk-11-jre
+apt install openjdk-17-jdk
 cd ThsSmpServer
 mkdir MinecraftServer
 cd MinecraftServer
